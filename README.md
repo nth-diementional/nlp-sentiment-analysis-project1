@@ -19,5 +19,7 @@ MATERIALS:
 (**NOTE: If you do not have access to any of the following, please request access, also note the data and colab exports are attached in this repository and named accordingly) 
 
 Landing page: https://sites.google.com/bellcurvetech.io/gta666/home?pli=1
+
 Data: https://docs.google.com/spreadsheets/d/1EQ9OohivmbPYxO3W54MLtmfEkVCJbeQGMxexnipkL-U/edit#gid=1751910415
+
 Google Colab: https://colab.research.google.com/drive/1VwzWWvwj_SGU-Vp0KuuYXo_InI4fadSI
